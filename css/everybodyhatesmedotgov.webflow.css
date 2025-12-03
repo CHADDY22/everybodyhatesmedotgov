@@ -1282,7 +1282,10 @@
 
   .text-block-13 {
     max-height: 250px;
+    padding-left: 10px;
+    padding-right: 10px;
     font-size: 14px;
+    line-height: 28px;
     overflow: scroll;
   }
 
